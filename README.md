@@ -56,4 +56,4 @@ experience, while others are radical revamps. See:
 [Spacemacs]: http://spacemacs.org/
 [Prelude]: http://batsov.com/prelude/
 [purcell's Emacs]: https://github.com/purcell/emacs.d/
-[GNU Emacs]: (https://www.gnu.org/software/emacs/)
+[GNU Emacs]: https://www.gnu.org/software/emacs/
