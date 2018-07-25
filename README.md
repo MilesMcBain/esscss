@@ -31,7 +31,7 @@ Member Config | Emacs Config Distribution
 [An Chu](https://github.com/chuvanan/dot-files/blob/master/emacs-init.el) | [GNU Emacs] 
 [Steve Lane](https://github.com/SteveLane/dot-emacs) | [GNU Emacs]
 [Ben Fitzpatrick](https://gist.github.com/brfitzpatrick/6fb7d57969e020634bc276c19f60c14c) | [GNU Emacs]
-
+[François Michonneau](https://github.com/fmichonneau/dotfiles/tree/master/emacs) | [GNU Emacs]
 
 
 # Emacs Configuration Distributions
