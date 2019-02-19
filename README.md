@@ -32,7 +32,7 @@ Member Config | Emacs Config Distribution
 [Steve Lane](https://github.com/SteveLane/dot-emacs) | [GNU Emacs]
 [Ben Fitzpatrick](https://gist.github.com/brfitzpatrick/6fb7d57969e020634bc276c19f60c14c) | [GNU Emacs]
 [François Michonneau](https://github.com/fmichonneau/dotfiles/tree/master/emacs) | [GNU Emacs]
-
+[Ahmadou Dicko](https://gitlab.com/dickoa/emacs.d) | [GNU Emacs]
 
 # Emacs Configuration Distributions
 Configuring Emacs can be made easier by using a configuration distribution (AKA
