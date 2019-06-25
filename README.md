@@ -29,6 +29,7 @@ Member Config | Emacs Config Distribution
 [Kara Woo](https://github.com/karawoo/prelude/blob/db60a8e448757b1e07b7323e411c3d5d4d1b7d45/personal/custom.el) | [Prelude] 
 [Miles McBain](https://github.com/MilesMcBain/spacemacs_cfg) | [Spacemacs]
 [An Chu](https://github.com/chuvanan/dot-files/blob/master/emacs-init.el) | [GNU Emacs] 
+[Ilja Kocken](https://github.com/japhir/ArchConfigs/blob/master/myinit.org#ess) | [GNU Emacs]
 [Steve Lane](https://github.com/SteveLane/dot-emacs) | [GNU Emacs]
 [Ben Fitzpatrick](https://gist.github.com/brfitzpatrick/6fb7d57969e020634bc276c19f60c14c) | [GNU Emacs]
 [François Michonneau](https://github.com/fmichonneau/dotfiles/tree/master/emacs) | [GNU Emacs]
