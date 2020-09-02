@@ -49,6 +49,7 @@ experience, while others are radical revamps. See:
 * [Spacemacs]
 * [Prelude]
 * [purcell's Emacs]
+* [DOOM Emacs]
 
 [Better Defaults]: https://github.com/technomancy/better-defaults/
 [Emacs LIVE]: http://overtone.github.io/emacs-live/
@@ -59,3 +60,4 @@ experience, while others are radical revamps. See:
 [Prelude]: http://batsov.com/prelude/
 [purcell's Emacs]: https://github.com/purcell/emacs.d/
 [GNU Emacs]: https://www.gnu.org/software/emacs/
+[Doom Emacs]: https://github.com/hlissner/doom-emacs
