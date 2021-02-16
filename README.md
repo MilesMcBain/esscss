@@ -35,6 +35,7 @@ Member Config | Emacs Config Distribution
 [François Michonneau](https://github.com/fmichonneau/dotfiles/tree/master/emacs) | [GNU Emacs]
 [Ahmadou Dicko](https://gitlab.com/dickoa/emacs.d) | [GNU Emacs]
 [Nistara Randhawa](https://github.com/nistara/.emacs.d/blob/master/init.el) | [GNU Emacs]
+[Atanas Janackovski](https://github.com/atanasj/.doom.d) | [DOOM Emacs]
 
 # Emacs Configuration Distributions
 Configuring Emacs can be made easier by using a configuration distribution (AKA
